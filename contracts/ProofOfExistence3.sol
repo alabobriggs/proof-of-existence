@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.22 <0.9.0;
 
-contract ProofOfExistence2 {
+contract ProofOfExistence3 {
     mapping(bytes32 => bool) private proofs;
 
     // store a proof of existence in the contract state
